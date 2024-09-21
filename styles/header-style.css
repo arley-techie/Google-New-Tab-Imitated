@@ -1,0 +1,21 @@
+.header-icon > img {
+    width: 25px;
+}
+
+header {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding: 0.8em;
+    font-size: 14px;
+    font-family: Roboto-Regular, Arial, Helvetica, sans-serif;   
+}
+
+header > div {
+    margin: 0.6em;
+}
+
+header a {
+    text-decoration: none;
+    color: #ffffff;
+}

@@ -1,0 +1,31 @@
+#footer-button img {
+    width: 16px;
+}
+
+#footer-button {
+    width: 11.5em;
+    background-color: rgb(32, 32, 32);
+    border-radius: 20px;
+    margin: 1em;
+}
+
+#footer-button a {
+    padding: 0.7em 0;
+    display: flex;
+    text-decoration: none;
+    color: rgb(199, 198, 198);
+    font-family: Roboto-Thin, Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    font-size: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+#footer-button a > div {
+    margin: 0 0.5em;
+}
+
+footer > div {
+    display: flex;
+    justify-content: right;
+}
