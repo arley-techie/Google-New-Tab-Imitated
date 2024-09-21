@@ -17,15 +17,15 @@ main {
 
 @font-face {
     font-family: Product-Sans;
-    src: url("../fonts/PT_Sans/PTSans-Bold.ttf");
+    src: url("../fonts/PTSans-Bold.ttf");
 }
 
 @font-face {
     font-family: Roboto-Thin;
-    src: url("../fonts/Roboto/Roboto-Thin.ttf");
+    src: url("../fonts/Roboto-Thin.ttf");
 }
 
 @font-face {
     font-family: Roboto-Regular;
-    src: url("../fonts/Roboto/Roboto-Regular.ttf");
+    src: url("../fonts/Roboto-Regular.ttf");
 }
