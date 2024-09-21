@@ -1,5 +1,19 @@
-.header-icon > img {
+.header-icon img {
     width: 25px;
+    border-radius: 50%;
+}
+
+.header-icon {
+    padding: 0.6em;
+    border-radius: 50%;
+}
+
+.header-icon:hover {
+    background-color: rgb(54, 54, 54);
+}
+
+.header-icon img:hover {
+    background-color: rgb(54, 54, 54);
 }
 
 header {
@@ -17,5 +31,9 @@ header > div {
 
 header a {
     text-decoration: none;
-    color: #ffffff;
+    color: rgb(240, 240, 240);
+}
+
+header a:hover {
+    text-decoration: underline rgb(240, 240, 240);
 }
